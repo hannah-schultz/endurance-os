@@ -4,7 +4,7 @@
 
 **EnduranceOS is a multi-sport endurance training platform designed to help athletes plan, track, analyze, and improve their performance across swimming, cycling, running, strength training, and recovery.**
 
-The goal is to create a centralized "operating system" for endurance athletes — combining training data, goals, workouts, race preparation, and performance insights into one intelligent platform.
+The goal of EnduranceOS is to create a centralized "operating system" for endurance athletes — combining training data, goals, workouts, race preparation, and performance insights into one intelligent platform.
 
 Rather than being only a workout tracker, EnduranceOS focuses on the full athlete lifecycle:
 
