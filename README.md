@@ -96,8 +96,7 @@ Project documentation is organized in the `/docs` directory.
 
 # Planned Features
 
-* Garmin Connect imports
-* Runna synchronization
+* Common training app synching
 * Interactive analytics dashboard
 * Training load visualization
 * Recovery scoring
